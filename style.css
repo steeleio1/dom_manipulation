@@ -1,0 +1,12 @@
+
+
+.calcbox {
+	border: solid black 2px; 
+	height: 300px;
+	width: 500px;
+	background: #64B255;
+}
+
+.fontfamily {
+	font-family: Maven+Pro;
+}
